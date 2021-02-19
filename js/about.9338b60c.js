@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var s=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},i=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("About")]),n("p",[t._v("This is the TodoList app very 1st version. Copyright by Dung Ngo in Feb, 2021.")])])}],o=n("2877"),r={},u=Object(o["a"])(r,s,i,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=about.9338b60c.js.map
